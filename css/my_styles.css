@@ -1,0 +1,36 @@
+body {
+    background-color: rgba(0, 47, 255, 0.877);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+.common {
+    /* background-color: #cccccc; */
+    border: 2px solid gray;
+    position: absolute;
+}
+.header {
+    top: 50px;
+    width: 250px;
+    height: 30px;
+}
+.leftmenu {
+    top: 114px;
+    left: 5px;
+    width: 250px;
+    bottom: 450px;
+    color: rgb(58, 58, 58);
+}
+.youtube {
+    left: 300px;
+}
+a {
+    color: black;
+}
+.image {
+    top: 500px;
+}
+.tableau {
+    top: 500px;
+    left: 700px;
+    width: 500px;
+}
